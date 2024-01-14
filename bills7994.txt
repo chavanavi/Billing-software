@@ -1,0 +1,17 @@
+	WelCome WebCode Reatil 
+
+ Bill Number : 7994
+ Customer Name :aviraj
+ Phone Number : 78659433034
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ dall		3		180
+ limca		5		200
+-------------------------------------
+ Cosmetic Tax 			Rs. 2.0
+ grocery Tax 			Rs. 18.0
+ cold drink Tax 			Rs. 10.0
+ Total Bill:  			RS. 450.0
+-------------------------------------

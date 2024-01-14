@@ -1,0 +1,15 @@
+	WelCome WebCode Reatil 
+
+ Bill Number : 4550
+ Customer Name :avi
+ Phone Number : 9623016545
+=====================================
+ Products		QTY		Price
+=====================================
+ rice		1		40
+-------------------------------------
+ Cosmetic Tax 			Rs. 0.0
+ grocery Tax 			Rs. 4.0
+ cold drink Tax 			Rs. 0.0
+ Total Bill:  			RS. 44.0
+-------------------------------------
