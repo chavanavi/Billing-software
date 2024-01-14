@@ -1,0 +1,17 @@
+	WelCome WebCode Reatil 
+
+ Bill Number : 9977
+ Customer Name :vishu 
+ Phone Number : 9623016454
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ rice		3		120
+ maza		6		360
+-------------------------------------
+ Cosmetic Tax 			Rs. 2.0
+ grocery Tax 			Rs. 12.0
+ cold drink Tax 			Rs. 18.0
+ Total Bill:  			RS. 552.0
+-------------------------------------
